@@ -35,10 +35,14 @@ export const Route = createRootRoute({
       { name: "description", content: "Os mais exclusivos supercarros do mundo. Porsche, Ferrari, Lamborghini, McLaren e muito mais." },
       { name: "author", content: "Velocity Motors" },
       { property: "og:title", content: "Velocity — Concessionária de Carros Esportivos" },
-      { property: "og:description", content: "Os mais exclusivos supercarros do mundo." },
+      { property: "og:description", content: "Os mais exclusivos supercarros do mundo. Porsche, Ferrari, Lamborghini, McLaren e muito mais." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Velocity — Concessionária de Carros Esportivos" },
+      { name: "twitter:description", content: "Os mais exclusivos supercarros do mundo. Porsche, Ferrari, Lamborghini, McLaren e muito mais." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/e8f07912-e972-4626-bcf1-b6201d52de4f/id-preview-c472bf58--f8a8ecbf-ddcf-4444-b029-b01c414b1e95.lovable.app-1777302327827.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/e8f07912-e972-4626-bcf1-b6201d52de4f/id-preview-c472bf58--f8a8ecbf-ddcf-4444-b029-b01c414b1e95.lovable.app-1777302327827.png" },
     ],
     links: [
       {
